@@ -6,10 +6,7 @@ Built with middleman, HAML, SASS: http://middlemanapp.com
 TODO:
 
 - Logo
-- update gitignore
-- remove google file
-- get google file working
-- fix capistrano public/js error : doesnt seem to be causing any bad side effects though
+- remove google file from repo
 - set up turnandzoom.com DNS, right now only www. is working
 - twitter account
 - google apps/mail
