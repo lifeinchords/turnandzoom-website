@@ -12,3 +12,16 @@
 
 # Ignore Sass' cache
 /.sass-cache
+
+
+
+log/*.log
+tmp/
+.project
+*.tar.gz
+*.log
+*.pid
+.DS_Store
+tmp/restart.txt
+.idea
+config/database.yml
