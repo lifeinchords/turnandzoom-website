@@ -5,7 +5,8 @@ Built with middleman, HAML, SASS: http://middlemanapp.com
 
 TODO:
 
-- Logo
+- convery layout to haml
+- auto format css
 - set up webmaster tools, in shared, update deploy to symlink
 - set up turnandzoom.com DNS, right now only www. is working
 - twitter account
