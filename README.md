@@ -6,7 +6,7 @@ Built with middleman, HAML, SASS: http://middlemanapp.com
 TODO:
 
 - Logo
-- remove google file from repo
+- set up webmaster tools, in shared, update deploy to symlink
 - set up turnandzoom.com DNS, right now only www. is working
 - twitter account
 - google apps/mail
