@@ -1,13 +1,26 @@
-# Middleman on Heroku
-### precompiled and served statically
+Website for turnandzoom.com.
+Built with middleman, HAML, SASS: http://middlemanapp.com
 
-## Usage
 
-    $ git clone http://github.com/indirect/middleman-heroku-static-app.git mysite
-    $ cd mysite
-    $ heroku create --stack cedar --buildpack http://github.com/indirect/heroku-buildpack-middleman.git
-    $ git push heroku master
 
-The only expectation is that `middleman build` will generate your site into `./build`. That's where Rack::TryStatic will look.
+TODO:
 
-You can customize the 404 page that's served if TryStatic can't find a file by editing `source/404.html.erb`.
+- https://typekit.com/fonts/proxima-nova
+- convery layout to haml
+- auto format css
+- set up webmaster tools, in shared, update deploy to symlink
+- set up turnandzoom.com DNS, right now only www. is working
+- twitter account
+- google apps/mail
+- DropBox account
+- password repo
+- auto embed GitHub repo README, display via Markdown
+- shoot home page demo product - funny + ridiculous item
+- tiling: lazy loading / HS
+- tiling: pre-processor gem
+- what are ways to allow small orgs to create photos - easy, fast, cheap, consistent
+
+
+http://jquery.com/
+http://listjs.com/
+http://middlemanapp.com
