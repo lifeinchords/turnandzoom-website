@@ -4,8 +4,8 @@
 Gemfile.lock
 .sass-cache
 .sass_cache
-/build
-/.bundle
+build
+.bundle
 log/*.log
 tmp/
 .project
