@@ -28,7 +28,14 @@
 			}
 		},
 		{
+<<<<<<< HEAD
 			"file": "README.md",
+=======
+			"contents": "Website for turnandzoom.com.\nBuilt with middleman, HAML, SASS: http://middlemanapp.com\n\n\n\nTODO:\n\n- convery layout to haml\n- auto format css\n- set up webmaster tools, in shared, update deploy to symlink\n- set up turnandzoom.com DNS, right now only www. is working\n- twitter account\n- google apps/mail\n- DropBox account\n- password repo\n- auto embed GitHub repo README, display via Markdown\n- shoot home page demo product - funny + ridiculous item\n- tiling: lazy loading / HS\n- tiling: pre-processor gem\n- what are ways to allow small orgs to create photos - easy, fast, cheap, consistent\n\n\nhttp://jquery.com/\nhttp://listjs.com/\nhttp://middlemanapp.com/",
+			"file": "README.md",
+			"file_size": 588,
+			"file_write_time": 1354768256000000,
+>>>>>>> 2a4a7cf6b72a680fc00a8b0cd41f082b7c25c8ab
 			"settings":
 			{
 				"buffer_size": 650,

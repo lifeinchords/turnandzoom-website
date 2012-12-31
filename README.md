@@ -2,7 +2,6 @@ Website for turnandzoom.com.
 Built with middleman, HAML, SASS: http://middlemanapp.com
 
 
-
 TODO:
 
 - https://typekit.com/fonts/proxima-nova

@@ -5,3 +5,17 @@ Gemfile.lock
 .sass-cache
 .sass_cache
 /build
+/.bundle
+log/*.log
+tmp/
+.project
+*.tar.gz
+*.log
+*.pid
+tmp/restart.txt
+.idea
+config/database.yml
+.sublime-project
+
+
+google5a19a333f9f8cee1.html
